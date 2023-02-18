@@ -1,3 +1,2 @@
 # PHP_Project
-Grigore Alexandru Gabriel
-Grupa 614
+Basic Crud App in Php for school
