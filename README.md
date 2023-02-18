@@ -1,2 +1,2 @@
 # PHP_Project
-Basic Crud App in Php for school
+Basic Crud App using PHP for school
