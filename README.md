@@ -1,2 +1,2 @@
 # PHP_Project
-Basic Crud App using PHP for school
+simple php solution for an animal shelter web app
